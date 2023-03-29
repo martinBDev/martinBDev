@@ -8,4 +8,4 @@
 
 # 🏆 Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=UO276244&theme=radical)
-![](https://visitcount.itsvg.in/api?id=UO276244&icon=0&color=11)](https://visitcount.itsvg.in)
+![][(https://visitcount.itsvg.in/api?id=UO276244&icon=0&color=11)](https://visitcount.itsvg.in)
